@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.border-yellow {
+    border: 3px solid yellow;
+}
+
+.border-bottom-yellow {
+    border-bottom: 3px solid yellow;
+}
+
+.bg-img {
+    background-image: url(../images/images/second.png);
+}
+
+.border-radic {
+    border-radius: 5%;
+}
+
+.border-radic-2 {
+    border-radius: 50%;
+}
+
+.text-yellow {
+    color: yellow;
+}
+
+.mx {
+    margin: 0 auto;
+}
+
+.bg-color {
+    background-color: black;
+}
+
+.mr {
+    margin-left: auto;
+}
+
+.border-white {
+    border: 2px solid white;
+    border-radius: 6%;
+}
+
+.fs-0 {
+    font-size: 50px;
+}
+
+.ml {
+    margin-left: 50px;
+}
+
+.border-out {
+    outline: none;
+    border: none;
+}
+
+.border-bottom-white {
+    border-bottom: 3px solid white;
+}
